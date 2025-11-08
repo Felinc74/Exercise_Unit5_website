@@ -5,9 +5,13 @@ h1{
     text-decoration-color: blue ;
     text-decoration-line: underline;
 }
-p{
+.p1{
     text-decoration-color: green;text-decoration-line: underline;
 }
+.p2{
+    text-align: center;
+}
+
 
 footer{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
