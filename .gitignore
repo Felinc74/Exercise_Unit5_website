@@ -1,0 +1,9 @@
+# Excluir configuraciones del editor
+.vscode/
+
+# Excluir archivos de Mac
+.DS_Store
+
+#Excluir archivos temporales
+*.tmp
+*.log
